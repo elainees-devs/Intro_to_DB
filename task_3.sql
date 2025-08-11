@@ -1,2 +1,3 @@
+USE alx_book_store;
 SHOW TABLES;
--- This SQL command lists all the tables in the current database.
+-- Task 3: Create a table named `books` with the specified columns and constraints
